@@ -1,1 +1,3 @@
-# datu-IT128
+Caitlin Datu
+IT128L - FOPI01
+BSIT-O
